@@ -182,7 +182,7 @@ function doWhile(numero) {
   var resultado =numero;
   var i=0;
   do {
-    i=i+1;
+    i=i+1
     resultado=resultado+5;
 
   }
